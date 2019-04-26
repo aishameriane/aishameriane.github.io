@@ -1,9 +1,3 @@
-Hey there! Welcome to my page. This site is under construction... hopefully I'll find some time between undergrad courses and the master thesis to finish it.
+Hello!
 
-**NEWS**
-
-* I updated a list with some slides and stuff from my presentations from the past two years. You can find it [here](https://github.com/aishameriane/Presentations/blob/master/README.md).
-
-* My latest cv is available [here](https://github.com/aishameriane/aishameriane.github.io/blob/master/Aishameriane%20Schmidt%20CV.pdf) (detailed version) or [here](https://github.com/aishameriane/aishameriane.github.io/blob/master/2page%20CV%20-%20Aishameriane%20Schmidt.pdf) (short 2-page version).
-
-In the meantime, if you need something from me, feel free to send me an e-mail: _aishameriane_ **at** _gmail_ **dot** _com_
+I changed to https://sites.google.com/view/aishameriane. See you there!
